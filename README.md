@@ -1,3 +1,5 @@
+This fork includes KiCAD files for the trackball PCB. Should be possible to hand-solder with steady hands. BOM TBD, see schematics. Resistors and caps are 0603/1608, connector is 2.54.
+
 # Keyball Series
 
 ![Keyball61](./keyball61/doc/rev1/images/kb61_001.jpg)
