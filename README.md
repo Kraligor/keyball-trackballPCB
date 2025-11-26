@@ -1,6 +1,6 @@
 # Fork Info
 
-This fork includes KiCAD files and BOM for the trackball PCB. Resistors and caps are 0603/1608, connector is 2.54. The connector layout and component values are identical to the the original PCB, footprints differ as it's supposed to be hand-soldered, so the component packages are bigger.
+This fork includes reverse-engineered KiCAD files and BOM for the trackball PCB. Resistors and caps are 0603/1608, connector is 2.54. The connector layout and component values are identical to the the original PCB, footprints differ as it's supposed to be hand-soldered, so the packages are bigger.
 
 # Keyball Series
 
